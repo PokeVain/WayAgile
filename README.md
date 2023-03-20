@@ -1,1 +1,1 @@
-# WayAgile
+# Waygile
